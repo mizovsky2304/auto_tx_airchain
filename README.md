@@ -136,6 +136,6 @@ node smart_auto_tx.js
 * Enter a range of Amount of the tokens you want to send: 0.0001,0.002
 * Enter a range of delays between txs in seconds: 30,60
 
-  ![image]([(https://i.ibb.co/nQ3HSGB/Capture-d-e-cran-2024-06-29-a-19-49-20.png)])
+![image](https://github.com/mizovsky2304/auto_tx_airchain/blob/main/Capture%20d%E2%80%99e%CC%81cran%202024-06-29%20a%CC%80%2019.49.20.png)
 
 #
